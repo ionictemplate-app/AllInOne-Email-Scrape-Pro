@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllInOne-Email-Scrape-Pro", "AllInOne-Email-Scrape-Pro\AllInOne-Email-Scrape-Pro.csproj", "{0EFE2EC5-9C5C-477F-9C9C-99379AB90FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EFE2EC5-9C5C-477F-9C9C-99379AB90FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFE2EC5-9C5C-477F-9C9C-99379AB90FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFE2EC5-9C5C-477F-9C9C-99379AB90FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFE2EC5-9C5C-477F-9C9C-99379AB90FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C5DCCA2-23B9-4B47-B2A5-8010CFBAD594}
+	EndGlobalSection
+EndGlobal
